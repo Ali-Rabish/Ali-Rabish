@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Get me a chai- Donation for you favourite .<br><br>👯 I’m looking to collaborate on<br>MERN stack and full-stack web development.<br><br>🌱 I’m currently learning<br>Node.js, Express.js, Next.js,React.js and cloud deployment.<br><br>💬 Ask me about<br>AI assistants, JavaScript, Node.js, Express, MongoDB, and project building.<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into simple, user-friendly solutions 🚀<br>
+🔭 I’m currently working on<br>Get me a chai-Donation for you favourite Project .<br><br>👯 I’m looking to collaborate on<br>MERN stack and full-stack web development.<br><br>🌱 I’m currently learning<br>Node.js, Express.js, Next.js,React.js and cloud deployment.<br><br>💬 Ask me about<br>AI assistants, JavaScript, Node.js, Express, MongoDB, and project building.<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into simple, user-friendly solutions 🚀<br>
 
 
 ## 🌐 Socials:
